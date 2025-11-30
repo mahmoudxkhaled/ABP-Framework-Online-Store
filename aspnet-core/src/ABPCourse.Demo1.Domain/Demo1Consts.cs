@@ -4,4 +4,5 @@ public static class Demo1Consts
 {
     public const int GeneralTextMaxLength = 300;
     public const int GeneralDescMaxLength = 1000;
+
 }
